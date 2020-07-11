@@ -1,23 +1,24 @@
 # Continuing Education
+**Licenses & Certifications**
 
 
-## CURRENT 
+## PRESENT
 > ### Emurgo Academy
 > - Foundations of Blockchain
 > ### Linux Academy
 > - Linux Foundation Certified System Administrator (LFCS)
- 
- 
-## NEXT
+--- 
+
+
+## FUTURE
 > ### Linux Academy
 > - Docker Certified Associate (DCA)
 > - Database Essentials
 > - Hyperledger Fabric Administration (LFS272)
+---
 
 
-## COMPLETED
-**Licenses & Certifications**
-
+## PAST
 > ### Udacity
 > - Blockchain Developer Nanodegree Program
 
@@ -37,3 +38,5 @@
 
 > ### O'Reilly School of Technology
 > - Python 1: Beginging Python (4 CEUs)
+---
+
