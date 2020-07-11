@@ -3,9 +3,9 @@
 
 | TOC |   |   |
 |-----|---|---|
-| [Current](./README.md#current) | [Skills]() | [Connect](./README.md#connect) |
-| [Experience](./README.md#experience) | [Tools]() |   |
-| [Portfolio]() | [Education](./README.md#education) |   |
+| [Current](./README.md#current) | [Skills](./README.md#skills) | [Connect](./README.md#connect) |
+| [Experience](./README.md#experience) | [Tools](./README.md#tools) |   |
+| [Portfolio](./README.md#portfolio) | [Education](./README.md#education) |   |
 
 
 ## Entrepreneur | Developer | Designer | Futurist
