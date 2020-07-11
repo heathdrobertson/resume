@@ -9,9 +9,10 @@
  
  
 ## NEXT
+> ### Linux Academy
 > - Docker Certified Associate (DCA)
-> - db
-> - Hyperledger
+> - Database Essentials
+> - Hyperledger Fabric Administration (LFS272)
 
 
 ## COMPLETED
