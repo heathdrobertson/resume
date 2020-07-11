@@ -10,6 +10,8 @@
  
 ## NEXT
 > - Docker Certified Associate (DCA)
+> - db
+> - Hyperledger
 
 
 ## COMPLETED
