@@ -18,12 +18,12 @@ NEXT
  
 > COMPLETED
 
-**Licenses & Certifications**
-
-### Udacity
-- Blockchain Developer Nanodegree Program
-
-### Coursera
+>**Licenses & Certifications**
+>
+> ### Udacity
+> - Blockchain Developer Nanodegree Program
+>
+> ### Coursera
 - Application of AI, InsurTech, and Real Estate Technology
 - Cryptocurrency and Blockchain: An Introduction to Digital Currencies
 - Fintech: Foundations & Applications of Financial Technology Specialization
