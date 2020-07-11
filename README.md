@@ -36,6 +36,8 @@
 > - [The Rust Programming Language](https://www.udemy.com/certificate/UC-74UB08WX/)
 > - [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/certificate/UC-O8YEGNJB/)
 
+> ### V School (Coding Campus)
+> - [Python & AngularJS Web Development](https://www.credential.net/f64c5dce-b3e7-4d3a-bc29-f744bf01dc3d#gs.9zqefe)
 > ### O'Reilly School of Technology
 > - Python 1: Beginging Python (4 CEUs)
 ---
