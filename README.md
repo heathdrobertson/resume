@@ -1,12 +1,7 @@
 # Continuing Education
 
 ```bash
-   _____                          _   
-  / ____|                        | |  
- | |    _   _ _ __ _ __ ___ _ __ | |_ 
- | |   | | | | '__| '__/ _ \ '_ \| __|
- | |___| |_| | |  | | |  __/ | | | |_ 
-  \_____\__,_|_|  |_|  \___|_| |_|\__|   
+current 
 ```
 
 ### Emurgo Academy
@@ -16,18 +11,12 @@
  
  
 ```bash
-  _   _           _   
- | \ | |         | |  
- |  \| | _____  _| |_ 
- | . ` |/ _ \ \/ / __|
- | |\  |  __/>  <| |_ 
- |_| \_|\___/_/\_\\__|
+NEXT
 ```
 
  - Docker Certified Associate (DCA)
  
-**Completed**
-___
+> COMPLETED
 
 **Licenses & Certifications**
 
