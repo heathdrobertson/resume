@@ -1,16 +1,23 @@
 # Continuing Education
 
-## Current
+**Current**
+___
+
 ### Emurgo Academy
 - Foundations of Blockchain
 ### Linux Academy
  - Linux Foundation Certified System Administrator (LFCS)
  
-## Next
+ 
+**Next**
+___
+
  - Docker Certified Associate (DCA)
  - 
  
-## Completed
+**Completed**
+___
+
 **Licenses & Certifications**
 
 ### Udacity
@@ -24,8 +31,11 @@
 - FinTech: Foundations, Payments, and Regulations
 
 ### Udacity
-- AI for Trading
+- AI for Trading Nanodegree Program
 
 ### Udemy
 - The Rust Programming Language
 - Bash Shell Scripting: Crash Course For Beginners
+
+### O'Reilly School of Technology
+- Python 1: Beginging Python (4 CEUs)
