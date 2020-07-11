@@ -1,7 +1,8 @@
 # Continuing Education
 
-**Current**
-___
+```bash
+Current
+```
 
 ### Emurgo Academy
 - Foundations of Blockchain
