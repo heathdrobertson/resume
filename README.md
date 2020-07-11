@@ -15,11 +15,16 @@
  - Linux Foundation Certified System Administrator (LFCS)
  
  
-**Next**
-___
+```bash
+  _   _           _   
+ | \ | |         | |  
+ |  \| | _____  _| |_ 
+ | . ` |/ _ \ \/ / __|
+ | |\  |  __/>  <| |_ 
+ |_| \_|\___/_/\_\\__|
+```
 
  - Docker Certified Associate (DCA)
- - 
  
 **Completed**
 ___
