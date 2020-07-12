@@ -1,5 +1,7 @@
 # Résumé
 
+[Download PDF Resume](https://bit.ly/3depvXO "Heath Robertson Resume Download")
+
 | TOC |   |   |
 |-----|---|---|
 | [Current](./README.md#current) | [Skills](./README.md#skills) | [Connect](./README.md#connect) |

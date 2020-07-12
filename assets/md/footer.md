@@ -9,5 +9,4 @@
 
 ![Logo](./assets/images/logo.svg)
 
----
-[Download PDF Resume](https://bit.ly/3depvXO "Heath Robertson Resume Download")
+
