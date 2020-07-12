@@ -29,6 +29,3 @@
 > - [Regex](https://github.com/heathdrobertson/regex)
 
 
-[Top](./README.md#résumé)
-
-

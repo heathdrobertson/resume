@@ -174,9 +174,6 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > - [Regex](https://github.com/heathdrobertson/regex)
 
 
-[Top](./README.md#résumé)
-
-
 ## Design
 [Brand & Web](./assets/md/design.md)
 

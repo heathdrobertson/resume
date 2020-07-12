@@ -33,9 +33,6 @@
 > - [Regex](https://github.com/heathdrobertson/regex)
 
 
-[Top](./README.md#résumé)
-
-
 ## Design
 [Brand & Web](./assets/md/design.md)
 
