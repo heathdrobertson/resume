@@ -3,7 +3,7 @@
 
 ## Licenses & Certifications
 
-**PRESENT**
+**CURRENT**
 > ### Emurgo Academy
 > - Foundations of Blockchain
 
@@ -11,14 +11,14 @@
 > - Linux Foundation Certified System Administrator (LFCS)
 
 
-**FUTURE**
+**NEXT UP**
 > ### Linux Academy
 > - Docker Certified Associate (DCA)
 > - Database Essentials
 > - Hyperledger Fabric Administration (LFS272)
 
 
-**PAST**
+**COMPLETED**
 > ### Udacity
 > - [Blockchain Developer Nanodegree Program](https://graduation.udacity.com/confirm/9M3DSC2J)
 
@@ -62,8 +62,5 @@
 
 > ### Savannah College of Art and Design 1993 - 1997
 > - Bachelor of Fine Arts - Major: Illustration
-
-
-[Top](./README.md#résumé)
 
 

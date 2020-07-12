@@ -1,25 +1,32 @@
 
 # Résumé
+![Heath Robertson Profile Image](./assets/images/heath_robertson_profile_sm.png)
+## Heath Robertson
+
+
+[HeathRoberts.com](https://heathrobertson.com) | [Blog](https://toilethill.io) | [Email](mailto:CodeHappens@ToiletHill.io?subject=From&nbsp;Github&nbsp;Resume) | [Telegram](https://t.me/HeathDRobertson) | [Twitter](https://twitter.com/ToiletHill) | [Reddit](https://www.reddit.com/user/ToiletHill) | [LinkedIn](https://www.linkedin.com/in/heathrobertson/)
+
 
 [Download PDF Resume](https://bit.ly/3depvXO "Heath Robertson Resume Download")
 
 | TOC |   |   |
 |-----|---|---|
-| [Current](./README.md#current) | [Skills](./README.md#skills) | [Connect](./README.md#connect) |
-| [Experience](./README.md#experience) | [Tools](./README.md#tools) |   |
-| [Portfolio](./README.md#portfolio) | [Education](./README.md#education) |   |
+| [Current](./README.md#current) | [Skills](./README.md#skills) | [Education](./README.md#education) |
+| [Experience](./README.md#experience) | [Portfolio](./README.md#portfolio) |   |
 
 
 ## Entrepreneur | Developer | Designer | Futurist
 
-I was born and raised on a cattle ranch in west central Wyoming where my family homesteaded in 1893.  I've always been fascinated by technology and struggled to straddle the divide that seems to have developed between the western heritage that I grew up in and the future led by technological advancements.  With an innate curiosity to understand how the world functions, I've been drawn to macroeconomics and monetary policy. It seems somewhat fortuitous that Wyoming has taken the lead in blockchain technology which combines my most captivating curiosities.  
 
-With 18 years of local and regional experience in, business, marketing, graphic design, web design, I see the vast opportunities in blockchain, digital assets and decentralization and am eager to take part.  I have been accumulating knowledge as rapidly as possible around blockchain, code, system administration, DApp development, and DeFi.   I truly believe blockchain and decentralized technologies are the new frontier.
+I was born and raised on a cattle ranch in west central Wyoming where my family homesteaded in 1893. I've always been fascinated by technology and struggled to straddle the divide that seems to have developed between the western heritage that I grew up in and the future led by technological advancements. With an innate curiosity to understand how the world functions, I've been drawn to complex systems science, macroeconomics and monetary policy. It seems somewhat fortuitous that Wyoming has taken the lead in blockchain which combines my most captivating curiosities.
 
-If you're running or are involved in a blockchain related project and in need of a motivated person with my skill set, for employment, partnership or simply networking in Wyoming, please contact me.  
+With 18 years of local and regional experience in, business, marketing, graphic design, web design, I see the vast opportunities in blockchain, digital assets and decentralization and am eager to take part. I have been accumulating knowledge as rapidly as possible around blockchain, code, Linux system administration, DApp development, and DeFi. I truly believe blockchain and decentralized technologies are the new frontier.
 
-Thank you,
-Heath
+On a personal note, I have a deep love and appreciation for Wyoming and the outdoors.  I spend as much time as I can; mountain biking, rock climbing, skiing and horseback riding with my family.
+
+If you're running or are involved in a blockchain related project and in need of a motivated person with my skill set, for employment, partnership or simply networking in Wyoming, please contact me.
+
+Thank you, Heath
 
 
 # Current
@@ -35,48 +42,11 @@ Heath
 > - Storj Node Hosting
 > - HoloPort Hosting
 
-> ## Zeutle.io
-> **DApp Business Research & Development**
-> - Pediatric Executive Function & Self-Regulation
+## Near Term Goals
 
+Given the state of affairs globally, it appears to me that the transition to a new economic model is on the horizon.  I believe that blockchain and decentralized technologies will play a large part in this transition.  I have acquired a solid understanding of this new frontier but it is not enough, I want to be more involved.
 
-[Top](./README.md#résumé)
-
-
-# Portfolio
-## Code
-
-
-> ## Eat The Blocks - DApp 30
-> -   [DApp 30 Live Site](https://th-dapp30.web.app/) - 30 Smart Contract in 30 Days [[Code](https://github.com/heathdrobertson/dapp30)]
-
-
-> ## Udacity - Blockchain Developer Nanodegree
-> -  [Project 1](https://github.com/heathdrobertson/private_blockchain) - Building your own Private Blockchain utilizing Node.js
-> -  [Project 2](https://github.com/search?q=user%3Aheathdrobertson+udacity) - Decentralized Star Notary Service Project
->     -  Create a DApp by adding functionality to a smart contract and deploy it on a public testnet.
-> -  [Project 3](https://github.com/heathdrobertson/supply_chain) - Ethereum DApp for Tracking Items through Supply Chain.
->     -  Learn lower level components of establishing a sound web service architecture using Blockchain.
-> -  [Project 4](https://github.com/heathdrobertson/flight_surety) - Flight Surety
->     -  Airlines provide flight insurance via an Ethereum contract to passengers and provide flight status updates through oracles.
-> -  [Project 5](https://github.com/heathdrobertson/blockchain_capstone) - Capstone: Real Estate Marketplace
->     -  Build a decentralized housing project that mints tokens to represent titles to the properties. Properties must be verified using zk-SNARKs, once the token has been minted and verified, it is placed on the OpenSea blockchain [market place](https://rinkeby.opensea.io/assets/toilethill-real-estate-ownership-transfer?embed=true&ref=0x55466fc7cd33e6791d7e2246fe7496783cc6ed4f).
-
-
-> ##  Udacity - AI For Finance Nanodegree
-> - [Term 1](https://github.com/heathdrobertson/ai_algorithms_trading-term1) - Quantitative Trading (Projects 1-4)
-> - [Term 2](https://github.com/heathdrobertson/ai_algorithms_trading-term2) - AI Algorithms in Trading (Projects 5-8)
-
-
-> ##  Repos
-> - [Python](https://github.com/heathdrobertson/python)
-> - [JavaScript](https://github.com/heathdrobertson/javascript)
-> - [Rust](https://github.com/heathdrobertson/rust)
-> - [Haskell](https://github.com/heathdrobertson/haskell)
-> - [Bash](https://github.com/heathdrobertson/bash)
-> - [Nix](https://github.com/heathdrobertson/nix)
-> - [Regex](https://github.com/heathdrobertson/regex)
-
+My two pronged approach, onboarding new people from my sphere of influence and refining and expanding my own knowledge buy actively participating in a project or business.  The best way to achieve this is to obtain certifications in Linux, Docker and Hyperledger administration.  Hyperledger is shaping up to be the bridge between the centralized and the decentralized worlds.  The Cardano project in my opinion, has the greatest chance of representing the decentralized world.  Which is why I am actively running a Cardano stake pool and working toward becoming a Cardano Ambassador.
 
 [Top](./README.md#résumé)
 
@@ -147,6 +117,9 @@ Heath
 > -   Web Team Support
 
 
+[Top](./README.md#résumé)
+
+
 # Skills
 > Business Management, Marketing, Graphic Design,  Web Design, Programming
 
@@ -166,12 +139,57 @@ Heath
 [Top](./README.md#résumé)
 
 
+# Portfolio
+## Code
+
+
+> ## Eat The Blocks - DApp 30
+> -   [DApp 30 Live Site](https://th-dapp30.web.app/) - 30 Smart Contract in 30 Days [[Code](https://github.com/heathdrobertson/dapp30)]
+
+
+> ## Udacity - Blockchain Developer Nanodegree
+> -  [Project 1](https://github.com/heathdrobertson/private_blockchain) - Building your own Private Blockchain utilizing Node.js
+> -  [Project 2](https://github.com/search?q=user%3Aheathdrobertson+udacity) - Decentralized Star Notary Service Project
+>     -  Create a DApp by adding functionality to a smart contract and deploy it on a public testnet.
+> -  [Project 3](https://github.com/heathdrobertson/supply_chain) - Ethereum DApp for Tracking Items through Supply Chain.
+>     -  Learn lower level components of establishing a sound web service architecture using Blockchain.
+> -  [Project 4](https://github.com/heathdrobertson/flight_surety) - Flight Surety
+>     -  Airlines provide flight insurance via an Ethereum contract to passengers and provide flight status updates through oracles.
+> -  [Project 5](https://github.com/heathdrobertson/blockchain_capstone) - Capstone: Real Estate Marketplace
+>     -  Build a decentralized housing project that mints tokens to represent titles to the properties. Properties must be verified using zk-SNARKs, once the token has been minted and verified, it is placed on the OpenSea blockchain [market place](https://rinkeby.opensea.io/assets/toilethill-real-estate-ownership-transfer?embed=true&ref=0x55466fc7cd33e6791d7e2246fe7496783cc6ed4f).
+
+
+> ##  Udacity - AI For Finance Nanodegree
+> - [Term 1](https://github.com/heathdrobertson/ai_algorithms_trading-term1) - Quantitative Trading (Projects 1-4)
+> - [Term 2](https://github.com/heathdrobertson/ai_algorithms_trading-term2) - AI Algorithms in Trading (Projects 5-8)
+
+
+> ##  Repos
+> - [Python](https://github.com/heathdrobertson/python)
+> - [JavaScript](https://github.com/heathdrobertson/javascript)
+> - [Rust](https://github.com/heathdrobertson/rust)
+> - [Haskell](https://github.com/heathdrobertson/haskell)
+> - [Bash](https://github.com/heathdrobertson/bash)
+> - [Nix](https://github.com/heathdrobertson/nix)
+> - [Regex](https://github.com/heathdrobertson/regex)
+
+
+[Top](./README.md#résumé)
+
+
+## Design
+[Brand & Web](./assets/md/design.md)
+
+
+[Top](./README.md#résumé)
+
+
 # Education
 
 
 ## Licenses & Certifications
 
-**PRESENT**
+**CURRENT**
 > ### Emurgo Academy
 > - Foundations of Blockchain
 
@@ -179,14 +197,14 @@ Heath
 > - Linux Foundation Certified System Administrator (LFCS)
 
 
-**FUTURE**
+**NEXT UP**
 > ### Linux Academy
 > - Docker Certified Associate (DCA)
 > - Database Essentials
 > - Hyperledger Fabric Administration (LFS272)
 
 
-**PAST**
+**COMPLETED**
 > ### Udacity
 > - [Blockchain Developer Nanodegree Program](https://graduation.udacity.com/confirm/9M3DSC2J)
 
@@ -235,15 +253,7 @@ Heath
 [Top](./README.md#résumé)
 
 
-# Connect
-[Top](./README.md#résumé)
-
-
-## Heath Robertson
-
-[HeathRoberts.com](https://heathrobertson.com) | [Blog](https://toilethill.io) | [Email](mailto:CodeHappens@ToiletHill.io?subject=From&nbsp;Github&nbsp;Resume) | [Telegram](https://t.me/HeathDRobertson) | [Twitter](https://twitter.com/ToiletHill) | [Reddit](https://www.reddit.com/user/ToiletHill) | [LinkedIn](https://www.linkedin.com/in/heathrobertson/)
-
-
+---
 ![Logo](./assets/images/logo.svg)
 
 

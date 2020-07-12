@@ -1,7 +1,6 @@
 # Brand & Identity
 
 
----
 ![ToiletHill.io](https://bit.ly/2UTLVHy "ToiletHill.io")
 
 
@@ -49,7 +48,6 @@
 
 
 # Web
----
 
 
 [ToiletHill.io](https://toilethill.io)
