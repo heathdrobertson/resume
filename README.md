@@ -187,21 +187,22 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 ## Licenses & Certifications
 
 **CURRENT**
-> ### Emurgo Academy
-> - Foundations of Blockchain
-
 > ### Linux Academy
-> - Linux Foundation Certified System Administrator (LFCS)
-
+> - Database Essentials
 
 **NEXT UP**
 > ### Linux Academy
 > - Docker Certified Associate (DCA)
-> - Database Essentials
 > - Hyperledger Fabric Administration (LFS272)
 
 
 **COMPLETED**
+> ### Linux Academy
+> - [Linux Foundation Certified System Administrator (LFCS)](https://linuxacademy.com/profile/u/cert/id/374887)
+
+> ### Emurgo Academy
+> - [Foundations of Blockchain](https://www.youracclaim.com/badges/3b0b185f-b684-4766-8dd6-5f9e83e42128/linked_in)
+
 > ### Udacity
 > - [Blockchain Developer Nanodegree Program](https://graduation.udacity.com/confirm/9M3DSC2J)
 
