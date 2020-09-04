@@ -1,6 +1,5 @@
 # Education
 
-
 ## Licenses & Certifications
 
 **CURRENT**
@@ -8,15 +7,12 @@
 > - Docker Certified Associate (DCA)
 
 **NEXT UP**
-
-
 > ### The Linux Foundation
 > - [Hyperledger Fabric Administration (LFS272)](https://training.linuxfoundation.jp/training/hyperledger-fabric-administration-lfs272/)
 > - [Kubernetes for App Developers (LFD459)](https://training.linuxfoundation.org/training/kubernetes-for-app-developers/)
 
 > ### Linux Academy
 > - [Scenario Based Docker Security](https://linuxacademy.com/cp/coursescheduler/view/id/474661)
-
 
 **COMPLETED**
 > ### Linux Academy
