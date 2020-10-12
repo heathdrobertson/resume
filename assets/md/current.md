@@ -1,8 +1,9 @@
 # Current
 
 > ## ToiletHill.io
-> **Blockchain & Digital Asset Adoption**
+> **We Make Stuff**
 > - Instructional Blog & Video Content Creation
+> - Online Store
 
 > ## TetonBlocks.io
 > **Hosting & Staking**
